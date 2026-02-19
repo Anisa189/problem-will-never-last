@@ -1,2 +1,22 @@
-#me, #feel{color: darkgreen;}
-*{margin: 0px;}
+#me,
+#feel {
+    color: darkgreen;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    line-height: 1.8;
+    margin: 10px 0px;
+}
+
+h1,
+h2 {
+    margin: 10px 0px;
+}
+.ul,.ok{
+    color: blue;
+}
